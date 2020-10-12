@@ -16,8 +16,9 @@ We will explore how they work and how to make one.
 Each session will introduce a different sub-component to understand its function.
 By the end of the semester we will have a fully-functioning Robotic Arm!
 
-Starting Week 4: **Thursday, 15th of October**.
-Where: **Microsoft Teams Meeting** (link in email).
+#### Starting Week 4: Thursday, 15th of October.
+
+#### Where: Microsoft Teams Meeting (link in email).
 
 ### Further details about the club:
 
@@ -33,4 +34,4 @@ The only rules are that it shall *not* involve University work, and that the usu
 **Currently, we are restricted to virtual meetings, so we are running somewhat differently.**
 Instead of helping you directly with your own projects, we will be demonstrating some of our own in streamed sessions.
 
-Hope to see you in the club!
+Hope to see you at the club!
