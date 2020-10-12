@@ -1,4 +1,4 @@
-# The After Hours Club for electronics
+# The After Hours Club for Electronics
 
 ## Welcome to GitHub Pages
 
